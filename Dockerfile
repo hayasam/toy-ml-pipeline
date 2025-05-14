@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.12.10
 
 ARG NUM_CPUS=4
 ARG DEBIAN_FRONTEND=noninteractive
